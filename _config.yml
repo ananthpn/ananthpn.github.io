@@ -7,7 +7,7 @@
 
 # Site settings
 title: Deep Learning
-email: narayana.anantharaman@gmail.com
+email: ananth@jnresearch.com
 description: > # this means to ignore newlines until "baseurl:"
   Deep Learning techniques have powered innumerable novel applications and I believe this is just the beginning. There have been quite a number of wonderful blogs and articles on this exciting subject. This blog is a humble attempt at sharing my experiences as an entrepreneur and also as a faculty advising student projects.
 baseurl: "" # the subpath of your site, e.g. /blog

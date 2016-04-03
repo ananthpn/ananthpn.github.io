@@ -9,7 +9,7 @@
 title: Deep Learning
 email: narayana.anantharaman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Deep Learning techniques have powered innumerable novel applications and I believe this is just the beginning. There have been quite a number of wonderful blogs and articles on this exciting subject. My blog is a humble attempt at sharing my experiences as an entrepreneur and also as a faculty advising student projects.
+  Deep Learning techniques have powered innumerable novel applications and I believe this is just the beginning. There have been quite a number of wonderful blogs and articles on this exciting subject. This blog is a humble attempt at sharing my experiences as an entrepreneur and also as a faculty advising student projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ananthpn

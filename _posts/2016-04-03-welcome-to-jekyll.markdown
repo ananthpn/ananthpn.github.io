@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Ananth's Blogs!"
 date:   2016-04-03 14:37:49 +0530
 categories: jekyll update
 ---
